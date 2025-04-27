@@ -3510,7 +3510,7 @@
                       "properties": {
                         "exportToImportMap": {
                           "type": "object",
-                          "properties": {
+                          "additionalProperties": {
                             "string": {
                               "type": "array",
                               "items": {
